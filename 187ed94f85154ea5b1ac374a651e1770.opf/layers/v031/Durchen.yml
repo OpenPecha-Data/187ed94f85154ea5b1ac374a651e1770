@@ -1,0 +1,84 @@
+id: 8c29a1972c4c4e1b8115ee34e7252d39
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  a11d215e694841d59fc65c0f727a9dde:
+    span:
+      start: 670118
+      end: 756391
+  b2badf3119fd4306a749c1ae89557013:
+    span:
+      start: 1079640
+      end: 1134437
+  b08c2c4dd6f245f9aef9867b3b0d9439:
+    span:
+      start: 1220635
+      end: 1232172
+  6cb40e870bc14c6d956cf16e66bd26b6:
+    span:
+      start: 1400858
+      end: 1419938
+  53a9d208fac74a3cae64bdbbf8731ed6:
+    span:
+      start: 1577528
+      end: 1603147
+  6338310c250e4b61ae4f06efa36dca28:
+    span:
+      start: 1643223
+      end: 1650760
+  5da7f501753e4652abb7688c6a5eba37:
+    span:
+      start: 1666810
+      end: 1671451
+  b684b445799b466a87f9a1597020f3b2:
+    span:
+      start: 1817293
+      end: 1848495
+  0aebb8288721482fbf960a31db1ad5fb:
+    span:
+      start: 1905685
+      end: 1916228
+  2d040836840e4e2ab5584a9a142b05cc:
+    span:
+      start: 1925289
+      end: 1927910
+  cfd36ec2dc4a4948af5ce7faf5d60a45:
+    span:
+      start: 1935338
+      end: 1937844
+  d2d1614a8c8744318432b3e26b317fe3:
+    span:
+      start: 1954613
+      end: 1957730
+  eb685bfd28fa4d2fa7674acf2ba5de28:
+    span:
+      start: 2032364
+      end: 2045098
+  8cf9ca71e2844dabbe8e1fb6a9d25d64:
+    span:
+      start: 2067839
+      end: 2073377
+  ecf037f8bed04e66be95e0928fc8ddf2:
+    span:
+      start: 2095321
+      end: 2098889
+  3579138b9d2d4843a656e082ef742e01:
+    span:
+      start: 2123708
+      end: 2129105
+  99538d8a018840e6ae49b2e9957b0df8:
+    span:
+      start: 2146288
+      end: 2150567
+  07b0434ca0224c248eeea70f4351496c:
+    span:
+      start: 2273622
+      end: 2295491
+  434bfcd70af24c78b657f6d3547459e7:
+    span:
+      start: 2301726
+      end: 2303936
+  68d21e56100048ca990343bff9573df8:
+    span:
+      start: 2769422
+      end: 2849977
