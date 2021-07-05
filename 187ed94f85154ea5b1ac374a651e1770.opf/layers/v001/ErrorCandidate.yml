@@ -1,0 +1,10 @@
+id: b74adc94dc914694a5f382e40050a77f
+annotation_type: ErrorCandidate
+revision: '00001'
+annotations:
+  bdb7b881f175491582e953aff30e045d:
+    span:
+      start: 871521
+      end: 871580
+local_ids:
+  bdb7b881f175491582e953aff30e045d: 200000

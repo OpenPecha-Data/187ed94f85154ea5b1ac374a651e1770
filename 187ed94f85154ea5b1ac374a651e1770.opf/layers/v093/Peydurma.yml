@@ -1,10 +1,10 @@
-id: 930baab280104fe2b4f39dfb4a981522
+id: 0a24d43cdd3043a8b09a5e47bbc721bf
 annotation_type: Peydurma
 revision: '00001'
 annotations:
-  c5b3e97c6b544a1d8a3b5dfee425a25e:
+  1c71152239bc446c882ab431de992b49:
     span:
-      start: 2029916
-      end: 2029916
+      start: 2020281
+      end: 2020281
 local_ids:
-  c5b3e97c6b544a1d8a3b5dfee425a25e: 200000
+  1c71152239bc446c882ab431de992b49: 200000
