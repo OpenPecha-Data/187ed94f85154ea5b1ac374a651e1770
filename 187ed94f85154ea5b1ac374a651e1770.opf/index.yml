@@ -78,469 +78,469 @@ annotations:
     span:
     - vol: 1
       start: 277282
-      end: 282375
+      end: 282361
   3bd7a88ad9604385a8aa1f4a086d8c79:
     parts: {}
     work_id: D1120
     span:
     - vol: 1
-      start: 282378
-      end: 286500
+      start: 282364
+      end: 286486
   4b59c26efd5f463caada3e92fe3dec2a:
     parts: {}
     work_id: D1121
     span:
     - vol: 1
-      start: 286503
-      end: 287851
+      start: 286489
+      end: 287837
   ad8aa5df6f4a43b39811fbd586cbcab7:
     parts: {}
     work_id: D1122
     span:
     - vol: 1
-      start: 287854
-      end: 289842
+      start: 287840
+      end: 289828
   1d3fc77f5f154a20b0813bbaabb1c20f:
     parts: {}
     work_id: D1123
     span:
     - vol: 1
-      start: 289845
-      end: 291680
+      start: 289831
+      end: 291666
   5fb64952b7c44cd7874515529a85acc5:
     parts: {}
     work_id: D1124
     span:
     - vol: 1
-      start: 291683
-      end: 304142
+      start: 291669
+      end: 304128
   691fe53d7c4a4edfb5b4cc23f5145513:
     parts: {}
     work_id: D1125
     span:
     - vol: 1
-      start: 304145
-      end: 307451
+      start: 304131
+      end: 307437
   8cbd7a76b072476c80b555122971d3e1:
     parts: {}
     work_id: D1126
     span:
     - vol: 1
-      start: 307454
-      end: 309258
+      start: 307440
+      end: 309244
   daf933ab7b2e43b1b172ba6c7182b01c:
     parts: {}
     work_id: D1127
     span:
     - vol: 1
-      start: 309261
-      end: 312491
+      start: 309247
+      end: 312477
   1080b173e4dc4aaba2674f19c7b1d513:
     parts: {}
     work_id: D1128
     span:
     - vol: 1
-      start: 312494
-      end: 319918
+      start: 312480
+      end: 319904
   223003494d264ae98d7b9257cb14623b:
     parts: {}
     work_id: D1129
     span:
     - vol: 1
-      start: 319921
-      end: 322706
+      start: 319907
+      end: 322692
   13be71c93c334c2390c6a2626e40b0fb:
     parts: {}
     work_id: D1130
     span:
     - vol: 1
-      start: 322709
-      end: 324090
+      start: 322695
+      end: 324076
   5a863a498610487a9128402ce2dec753:
     parts: {}
     work_id: D1131
     span:
     - vol: 1
-      start: 324093
-      end: 326793
+      start: 324079
+      end: 326779
   2c201d34cdbb40f8a4b490685ba778ab:
     parts: {}
     work_id: D1132
     span:
     - vol: 1
-      start: 326796
-      end: 329887
+      start: 326782
+      end: 329873
   0f8334baeefd4236876b3cee2f376f3a:
     parts: {}
     work_id: D1133
     span:
     - vol: 1
-      start: 329890
-      end: 332022
+      start: 329876
+      end: 332008
   50fc366ac88a49898225d9b62e626c85:
     parts: {}
     work_id: D1134
     span:
     - vol: 1
-      start: 332025
-      end: 335445
+      start: 332011
+      end: 335431
   b40065f7556f483b9a3c22c352cb00e4:
     parts: {}
     work_id: D1135
     span:
     - vol: 1
-      start: 334704
-      end: 337499
+      start: 334690
+      end: 337485
   050b8b3961a04fb1adb63afffcb90ba5:
     parts: {}
     work_id: D1136
     span:
     - vol: 1
-      start: 337502
-      end: 339076
+      start: 337488
+      end: 339062
   394b0451d2c24321886a910cc12daf6d:
     parts: {}
     work_id: D1137
     span:
     - vol: 1
-      start: 339079
-      end: 342093
+      start: 339065
+      end: 342079
   1304185e6654489cb19d2f5958d7491d:
     parts: {}
     work_id: D1138
     span:
     - vol: 1
-      start: 342096
-      end: 397493
+      start: 342082
+      end: 397479
   932522d76dab4448902edd27b8237224:
     parts: {}
     work_id: D1139
     span:
     - vol: 1
-      start: 397496
-      end: 399699
+      start: 397482
+      end: 399685
   90e84273d63f4782b329348302bda3c0:
     parts: {}
     work_id: D1140
     span:
     - vol: 1
-      start: 399702
-      end: 403218
+      start: 399688
+      end: 403204
   eebac1c611394f09ae45d165309f6c8c:
     parts: {}
     work_id: D1141
     span:
     - vol: 1
-      start: 403221
-      end: 406510
+      start: 403207
+      end: 406496
   e0afd6bd85a342e8869044198dba2c31:
     parts: {}
     work_id: D1142
     span:
     - vol: 1
-      start: 406513
-      end: 412540
+      start: 406499
+      end: 412526
   1136302519de4613862ed00b2b726c9c:
     parts: {}
     work_id: D1143
     span:
     - vol: 1
-      start: 412543
-      end: 415092
+      start: 412529
+      end: 415078
   a62e786270304f1c91b282bf9bc68b03:
     parts: {}
     work_id: D1144
     span:
     - vol: 1
-      start: 415095
-      end: 416320
+      start: 415081
+      end: 416306
   5dcd89180410421eb968277820c21fc7:
     parts: {}
     work_id: D1145
     span:
     - vol: 1
-      start: 416323
-      end: 437968
+      start: 416309
+      end: 437954
   a22c3703832c4e2abfb26ec7290382b5:
     parts: {}
     work_id: D1146
     span:
     - vol: 1
-      start: 437971
-      end: 438643
+      start: 437957
+      end: 438629
   a097cbf6da934922b0d26293b2d49cab:
     parts: {}
     work_id: D1147
     span:
     - vol: 1
-      start: 438646
-      end: 459317
+      start: 438632
+      end: 459303
   2f4a97d1dc454c9bba551ec77f7e40ab:
     parts: {}
     work_id: D1148
     span:
     - vol: 1
-      start: 459320
-      end: 683957
+      start: 459306
+      end: 683943
   72825e94873f45f28b26c76ff9d90737:
     parts: {}
     work_id: D1149
     span:
     - vol: 1
-      start: 683960
-      end: 696429
+      start: 683946
+      end: 696415
   fe58ae4bb9ae4203a3b1a74e69c6b9dc:
     parts: {}
     work_id: D1150
     span:
     - vol: 1
-      start: 696432
-      end: 737766
+      start: 696418
+      end: 737752
   a67794f3290f463fbc42eb908b5d6ea9:
     parts: {}
     work_id: D1151
     span:
     - vol: 1
-      start: 737769
-      end: 739796
+      start: 737755
+      end: 739782
   1a9e724568b24148b55cee294fb8393a:
     parts: {}
     work_id: D1152
     span:
     - vol: 1
-      start: 739799
-      end: 742247
+      start: 739785
+      end: 742233
   7ba7a96a82584381ae2593c919ee9538:
     parts: {}
     work_id: D1153
     span:
     - vol: 1
-      start: 742250
-      end: 744577
+      start: 742236
+      end: 744563
   5b29e99c58934ed58f9a3554ab8a0a60:
     parts: {}
     work_id: D1154
     span:
     - vol: 1
-      start: 744580
-      end: 747300
+      start: 744566
+      end: 747286
   6b954502af2e49d3aa263a52f06ad91f:
     parts: {}
     work_id: D1155
     span:
     - vol: 1
-      start: 747303
-      end: 761728
+      start: 747289
+      end: 761714
   a2677f25f6bb4b00b74489de76444c74:
     parts: {}
     work_id: D1156
     span:
     - vol: 1
-      start: 761731
-      end: 770432
+      start: 761717
+      end: 770418
   0710f840900e454db2624ebe623e676c:
     parts: {}
     work_id: D1157
     span:
     - vol: 1
-      start: 770435
-      end: 772452
+      start: 770421
+      end: 772438
   5296fc9bc40b4666be3d01968d264ea3:
     parts: {}
     work_id: D1158
     span:
     - vol: 1
-      start: 772455
-      end: 776166
+      start: 772441
+      end: 776152
   42c0bca5b432496f945f97395250592b:
     parts: {}
     work_id: D1159
     span:
     - vol: 1
-      start: 776169
-      end: 784805
+      start: 776155
+      end: 784791
   8200a1874ee44363b60b3ddec699fb0f:
     parts: {}
     work_id: D1160
     span:
     - vol: 1
-      start: 784808
-      end: 866994
+      start: 784794
+      end: 866980
   05a13e4b170b405ba969f84cbcdf3a9e:
     parts: {}
     work_id: D1161
     span:
     - vol: 1
-      start: 866997
-      end: 871655
+      start: 866983
+      end: 871641
   36b39fa8e4334a5db5cf1cee1de3cee9:
     parts: {}
     work_id: D1162
     span:
     - vol: 1
-      start: 871658
-      end: 873894
+      start: 871644
+      end: 873880
   9e03b57e33f64e22914c870e7f948bad:
     parts: {}
     work_id: D1163
     span:
     - vol: 1
-      start: 873897
-      end: 895156
+      start: 873883
+      end: 895142
   c0cb501bb3974b38b86702179ab3f264:
     parts: {}
     work_id: D1164
     span:
     - vol: 1
-      start: 895159
-      end: 897430
+      start: 895145
+      end: 897416
   a579ef0f2c534d3fa386fa3605afef83:
     parts: {}
     work_id: D1165
     span:
     - vol: 1
-      start: 897433
-      end: 899977
+      start: 897419
+      end: 899963
   5e6e845254c14da1b200751ea57d1e3a:
     parts: {}
     work_id: D1166
     span:
     - vol: 1
-      start: 899980
-      end: 903507
+      start: 899966
+      end: 903493
   7b5f2e0b01ba4ed1a9ff446c3844d926:
     parts: {}
     work_id: D1167
     span:
     - vol: 1
-      start: 903510
-      end: 910640
+      start: 903496
+      end: 910626
   73d715d8516443f6af3e9d288b1a7102:
     parts: {}
     work_id: D1168
     span:
     - vol: 1
-      start: 910643
-      end: 912746
+      start: 910629
+      end: 912732
   91b39712e03b4c629da7aad62eeab006:
     parts: {}
     work_id: D1169
     span:
     - vol: 1
-      start: 912749
-      end: 932973
+      start: 912735
+      end: 932959
   e3f967b56ab24877acfecf3032565904:
     parts: {}
     work_id: D1170
     span:
     - vol: 1
-      start: 932976
-      end: 943703
+      start: 932962
+      end: 943689
   9cf267caea3c479cbc8430c956cdc2ee:
     parts: {}
     work_id: D1171
     span:
     - vol: 1
-      start: 943706
-      end: 947663
+      start: 943692
+      end: 947649
   306b7d96fd8c4e85b26f3704c428bdf5:
     parts: {}
     work_id: D1172
     span:
     - vol: 1
-      start: 947666
-      end: 950485
+      start: 947652
+      end: 950471
   7d9ee6057a6442759cc24a70343d5607:
     parts: {}
     work_id: D1173
     span:
     - vol: 1
-      start: 950488
-      end: 953362
+      start: 950474
+      end: 953348
   63967ec24d4342ab9676ecb604d3013e:
     parts: {}
     work_id: D1174
     span:
     - vol: 1
-      start: 953365
-      end: 959052
+      start: 953351
+      end: 959038
   95a13d24f25d4553b4e96e074f04539e:
     parts: {}
     work_id: D1175
     span:
     - vol: 1
-      start: 959055
-      end: 961800
+      start: 959041
+      end: 961786
   5b16f01f80904067accd488bbfe0f831:
     parts: {}
     work_id: D1176
     span:
     - vol: 1
-      start: 961803
-      end: 966836
+      start: 961789
+      end: 966822
   2ad47695372948aabb9776609c870148:
     parts: {}
     work_id: D1177
     span:
     - vol: 1
-      start: 966839
-      end: 968929
+      start: 966825
+      end: 968915
   1708c72cb32845d89bdddce296e67490:
     parts: {}
     work_id: D1178
     span:
     - vol: 1
-      start: 968932
-      end: 978893
+      start: 968918
+      end: 978879
   363b4d2f648e4a4798b9268f585814a4:
     parts: {}
     work_id: D1179
     span:
     - vol: 1
-      start: 978896
-      end: 981608
+      start: 978882
+      end: 981594
   9ba359f5a14f41359a5f7bdf5c61b4fc:
     parts: {}
     work_id: ''
     span:
     - vol: 1
-      start: 981611
-      end: 985987
+      start: 981597
+      end: 985973
   9118cc673125423285b66b372917d0fc:
     parts: {}
     work_id: ''
     span:
     - vol: 1
-      start: 985990
-      end: 988345
+      start: 985976
+      end: 988331
   ae19b0aa8948442abc83a808f711494a:
     parts: {}
     work_id: D1180
     span:
     - vol: 1
-      start: 988626
-      end: 1151598
+      start: 988612
+      end: 1151584
   b33cbf4a985f4b47a9e41fbebf733dd4:
     parts: {}
     work_id: ''
     span:
     - vol: 1
-      start: 1151601
-      end: 1441714
+      start: 1151587
+      end: 1441700
   b6a756ae5b354de0b1525dfc6762200a:
     parts: {}
     work_id: D1181
     span:
     - vol: 1
-      start: 1441717
-      end: 1617005
+      start: 1441703
+      end: 1616991
   9395f3f9d8084922bff393b209c4b279:
     parts: {}
     work_id: D1182
     span:
     - vol: 1
-      start: 1617008
-      end: 1994110
+      start: 1616994
+      end: 1994096
   b1a334a8d70249898daa0664b0e9ca71:
     parts: {}
     work_id: D1183
