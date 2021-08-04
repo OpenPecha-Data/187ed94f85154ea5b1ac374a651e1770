@@ -21639,21 +21639,21 @@ annotations:
     span:
     - vol: 61
       start: 1347839
-      end: 1483940
+      end: 1483939
   b5a8c1063da047e59eb3b723ce8ae8a3:
     parts: {}
     work_id: D3872
     span:
     - vol: 61
-      start: 1483943
-      end: 2386147
+      start: 1483942
+      end: 2386146
   5894674d058c4e98b81fceb44884c0d3:
     parts: {}
     work_id: ''
     span:
     - vol: 61
-      start: 2386150
-      end: 2617762
+      start: 2386149
+      end: 2617761
   a34bd84b5a7741719ce58a9fe41619ff:
     parts: {}
     work_id: D3874

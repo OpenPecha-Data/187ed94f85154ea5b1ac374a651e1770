@@ -8,12 +8,12 @@ annotations:
       end: 1313000
   c80e9deddbf64d3fbe16ea45f9abe0d6:
     span:
-      start: 2307639
-      end: 2307639
+      start: 2307638
+      end: 2307638
   9dc65dbd5bb8418c908443d2f6c252fc:
     span:
-      start: 2319632
-      end: 2319632
+      start: 2319631
+      end: 2319631
 local_ids:
   b13ae5f268554c42bd04284cb4a238a5: 200000
   c80e9deddbf64d3fbe16ea45f9abe0d6: 200001
